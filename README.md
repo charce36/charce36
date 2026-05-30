@@ -31,8 +31,3 @@ Con base en desarrollo full-stack (Python/Django, React, sistemas distribuidos),
 Actualmente en **QuintoAndar**, una de las principales empresas proptech de América Latina.
 
 ---
-
-### Tools
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
