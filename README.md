@@ -41,11 +41,3 @@ Actualmente en **QuintoAndar**, una de las principales empresas proptech de Amé
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charce36&show_icons=true&hide_border=true&count_private=true&hide_title=true" height="130" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charce36&layout=compact&hide_border=true&hide_title=true" height="130" />
-</p>
